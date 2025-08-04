@@ -103,3 +103,12 @@ Ensure your file is comma-separated. If not, try saving with proper delimiters f
 
 No File Uploaded / Wrong Format
 Make sure the file is .csv and not empty.
+
+## 🏗 Future Improvements
+Allow user-defined message templates
+
+Add Excel support
+
+Include preview before generating PDF
+
+Multi-language support

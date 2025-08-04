@@ -1,0 +1,6 @@
+flask
+pandas
+xhtml2pdf
+openai
+xhtml2pdf
+python-dotenv

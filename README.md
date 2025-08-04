@@ -63,3 +63,43 @@ cd lead-bot-app
 ```
 
 ### 2.  Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Create .env File
+
+```bash
+OPENAI_API_KEY=your_openai_key_here
+```
+
+## 🧑‍💻 Running the App
+Once everything is set up, run the Flask app:
+
+```bash
+python app.py
+```
+Open your browser and go to http://localhost:5000
+
+## 📄 Output
+
+After uploading your CSV:
+
+The app reads the file using pandas.
+
+It generates personalized messages using OpenAI GPT-4o.
+
+All content is compiled into a styled PDF.
+
+You’ll receive a file named Outreach_Messages.pdf.
+
+## ❓ Common Errors & Fixes
+OpenAI Error: 429 – Quota Exceeded
+You’ve exceeded your API quota. Check OpenAI billing or upgrade your plan.
+
+CSV Parser Errors
+Ensure your file is comma-separated. If not, try saving with proper delimiters from Excel.
+
+No File Uploaded / Wrong Format
+Make sure the file is .csv and not empty.

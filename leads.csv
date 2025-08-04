@@ -1,0 +1,5 @@
+"name,email,phone,last_contact_date,vehicle_interest,trade_in_value,budget"
+"Jane Doe,jane.doe@example.com,1234567890,2024-06-01,Toyota Camry,3000,25000"
+"John Smith,john.smith@example.com,9876543210,2024-05-20,Honda Civic,2000,22000"
+"Alice Johnson,alice.j@example.com,5551234567,2024-04-10,Ford Escape,1500,27000"
+"Bob Brown,bob.brown@example.com,4449876543,2024-03-05,Nissan Altima,1800,24000"

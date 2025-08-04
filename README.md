@@ -26,13 +26,7 @@ This project is a user-friendly Flask web application that generates **personali
 
 ## 🧪 Example CSV File Format
 
-You can upload a CSV with any number of columns. Example structure:
-
-account,sector,year_established,revenue,employees,office_location,subsidiary_of
-Acme Corp,Manufacturing,1995,$50M,500,Chicago,Global Holdings
-DataWave Inc,IT Services,2010,$25M,200,New York,
-BrightLogix,Healthcare,2005,$40M,350,Boston,MedTech Group
----
+You can upload a CSV with any number of columns.
 
 ## 🛠️ Tech Stack
 

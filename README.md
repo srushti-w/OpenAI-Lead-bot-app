@@ -60,4 +60,6 @@ lead-bot-app/
 git clone https://github.com/yourusername/lead-bot-app.git
 cd lead-bot-app
 
----
+```
+
+### 2.  Install Dependencies
